@@ -8,12 +8,26 @@
 
 ### 🎓 Data Science Undergraduate @ SLIIT
 
-AI/ML • Generative AI • Deep Learning • Computer Vision  
-NLP • RAG • AI Agents • Data Science • Data Analytics
+<table>
+<tr>
+<td align="center">🤖<br><b>AI / ML</b></td>
+<td align="center">🧠<br><b>Deep Learning</b></td>
+<td align="center">👁️<br><b>Computer Vision</b></td>
+</tr>
+<tr>
+<td align="center">🔗<br><b>Agentic AI</b></td>
+<td align="center">⚛️<br><b>Quantum ML</b></td>
+<td align="center">📊<br><b>Data Science</b></td>
+</tr>
+</table>
 
-[LinkedIn](https://www.linkedin.com/in/surantha-madhuranga) • [Email](mailto:suranthamadhurangauni@gmail.com)
+<br>
 
-⭐ Turning Data into Intelligent Solutions.
+
+• [LinkedIn](https://www.linkedin.com/in/surantha-madhuranga)  
+• [Email](mailto:suranthamadhurangauni@gmail.com)
+
+⭐ <b>Turning Data into Intelligent Solutions.</b>
 
 </div>
 <!--
