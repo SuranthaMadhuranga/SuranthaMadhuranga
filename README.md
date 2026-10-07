@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Surantha Madhuranga
 
+<div align="center">
+
+### 🎓 Data Science Undergraduate @ SLIIT
+### 🤖 Aspiring AI/ML Engineer
+
+AI/ML • Generative AI • Deep Learning • Computer Vision  
+NLP • RAG • AI Agents • Data Science • Data Analytics
+
+[LinkedIn](https://www.linkedin.com/in/surantha-madhuranga) • [Email](mailto:YOUR_EMAIL)
+
+⭐ Turning Data into Intelligent Solutions.
+
+</div>
 <!--
 **SuranthaMadhuranga/SuranthaMadhuranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
