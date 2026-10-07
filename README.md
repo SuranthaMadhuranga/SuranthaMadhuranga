@@ -8,7 +8,7 @@
 AI/ML • Generative AI • Deep Learning • Computer Vision  
 NLP • RAG • AI Agents • Data Science • Data Analytics
 
-[LinkedIn](https://www.linkedin.com/in/surantha-madhuranga) • [Email](suranthamadhurangauni@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/surantha-madhuranga) • [Email](mailto:suranthamadhurangauni@gmail.com)
 
 ⭐ Turning Data into Intelligent Solutions.
 
