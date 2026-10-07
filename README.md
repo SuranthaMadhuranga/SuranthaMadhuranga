@@ -8,24 +8,63 @@
 
 ### 🎓 Data Science Undergraduate @ SLIIT
 
+<br>
+
 <table>
 <tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">🧠<br><b>Deep Learning</b></td>
-<td align="center">👁️<br><b>Computer Vision</b></td>
+<td align="center" width="150">
+
+### 🤖
+**AI / ML**
+
+</td>
+
+<td align="center" width="150">
+
+### 🧠
+**Deep Learning**
+
+</td>
+
+<td align="center" width="150">
+
+### 👁️
+**Computer Vision**
+
+</td>
 </tr>
+
 <tr>
-<td align="center">🔗<br><b>Agentic AI</b></td>
-<td align="center">⚛️<br><b>Quantum ML</b></td>
-<td align="center">📊<br><b>Data Science</b></td>
+<td align="center" width="150">
+
+### 🔗
+**Agentic AI**
+
+</td>
+
+<td align="center" width="150">
+
+### ⚛️
+**Quantum ML**
+
+</td>
+
+<td align="center" width="150">
+
+### 📊
+**Data Science**
+
+</td>
 </tr>
 </table>
 
 <br>
 
+<a href="https://www.linkedin.com/in/surantha-madhuranga">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:suranthamadhurangauni@gmail.com">Email</a>
 
-• [LinkedIn](https://www.linkedin.com/in/surantha-madhuranga)  
-• [Email](mailto:suranthamadhurangauni@gmail.com)
+<br><br>
 
 ⭐ <b>Turning Data into Intelligent Solutions.</b>
 
