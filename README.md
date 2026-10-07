@@ -11,14 +11,17 @@
 <br>
 
 🤖 **AI / ML** &nbsp; • &nbsp;
-🧠 **Deep Learning** &nbsp; • &nbsp;
+✨ **Generative AI** &nbsp; • &nbsp;
 🔗 **Agentic AI** &nbsp; • &nbsp;
-⚛️ **Quantum ML**
+⚙️ **AI Automation**
 
+🧠 **Deep Learning** &nbsp; • &nbsp;
 👁️ **Computer Vision** &nbsp; • &nbsp;
-💬 **NLP** &nbsp; • &nbsp;
-📚 **RAG** &nbsp; • &nbsp;
+⚛️ **Quantum ML** &nbsp; • &nbsp;
 📊 **Data Science**
+
+📈 **Data Analytics** &nbsp; • &nbsp;
+☁️ **Data Engineering**
 
 <br><br>
 
@@ -31,10 +34,6 @@
 </a>
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuranthaMadhuranga&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<br>
 
 ⭐ **Turning Data into Intelligent Solutions**
 
