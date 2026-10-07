@@ -8,22 +8,22 @@
 
 ### 🎓 BSc (Hons) IT — Data Science @ SLIIT
 
+</div>
+
+### 🔍 I enjoy exploring and building solutions around:
+
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Large Language Models (LLMs)**
+- 🔗 **Agentic AI Systems**
+- 📚 **Retrieval-Augmented Generation (RAG)**
+- ⚙️ **AI Automation**
+- 👁️ **Computer Vision**
+- ⚛️ **Quantum Machine Learning**
+- 📊 **Data Science & Analytics**
+
+<div align="center">
+
 <br>
-
-🤖 **AI / ML** &nbsp; • &nbsp;
-✨ **Generative AI** &nbsp; • &nbsp;
-🔗 **Agentic AI** &nbsp; • &nbsp;
-⚙️ **AI Automation**
-
-🧠 **Deep Learning** &nbsp; • &nbsp;
-👁️ **Computer Vision** &nbsp; • &nbsp;
-⚛️ **Quantum ML** &nbsp; • &nbsp;
-📊 **Data Science**
-
-📈 **Data Analytics** &nbsp; • &nbsp;
-☁️ **Data Engineering**
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/surantha-madhuranga">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
