@@ -1,9 +1,12 @@
-# Hi 👋, I'm Surantha Madhuranga
-
 <div align="center">
 
+# Hi 👋, I'm Surantha Madhuranga
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Generative+AI+Enthusiast" alt="Typing SVG" />
+</a>
+
 ### 🎓 Data Science Undergraduate @ SLIIT
-### 🤖 Aspiring AI/ML Engineer
 
 AI/ML • Generative AI • Deep Learning • Computer Vision  
 NLP • RAG • AI Agents • Data Science • Data Analytics
