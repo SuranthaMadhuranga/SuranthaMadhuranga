@@ -8,27 +8,27 @@
 
 ### 🎓 BSc (Hons) IT — Data Science @ SLIIT
 
-</div>
+<br>
 
 ### 🔍 I enjoy exploring and building solutions around:
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **Large Language Models (LLMs)**
-- 🔗 **Agentic AI Systems**
-- 📚 **Retrieval-Augmented Generation (RAG)**
-- ⚙️ **AI Automation**
-- 👁️ **Computer Vision**
-- ⚛️ **Quantum Machine Learning**
-- 📊 **Data Science & Analytics**
-
-<div align="center">
+🤖 **Artificial Intelligence & Machine Learning**  
+🧠 **Large Language Models (LLMs)**  
+🔗 **Agentic AI Systems**  
+📚 **Retrieval-Augmented Generation (RAG)**  
+⚙️ **AI Automation**  
+👁️ **Computer Vision**  
+⚛️ **Quantum Machine Learning**  
+📊 **Data Science & Analytics**
 
 <br>
 
 <a href="https://www.linkedin.com/in/surantha-madhuranga">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:suranthamadhurangauni@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
