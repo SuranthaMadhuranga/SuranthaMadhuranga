@@ -10,24 +10,11 @@
 
 <br>
 
-### 🚀 Exploring & Building with AI
+### 🔍 I enjoy exploring and building solutions around:
 
-<table align="center">
-<tr>
-<td align="left">
+🤖 **AI/ML** • 🧠 **LLMs** • 🔗 **Agentic AI** • 📚 **RAG**
 
-🤖 **Artificial Intelligence & Machine Learning**  
-🧠 **Large Language Models (LLMs)**  
-🔗 **Agentic AI Systems**  
-📚 **Retrieval-Augmented Generation (RAG)**  
-⚙️ **AI Automation**  
-👁️ **Computer Vision**  
-⚛️ **Quantum Machine Learning**  
-📊 **Data Science & Analytics**
-
-</td>
-</tr>
-</table>
+⚙️ **AI Automation** • 👁️ **Computer Vision** • ⚛️ **Quantum ML** • 📊 **Data Science**
 
 <br>
 
