@@ -1,72 +1,42 @@
 <div align="center">
 
-# Hi 👋, I'm Surantha Madhuranga
+# 👋 Hi, I'm Surantha Madhuranga
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Enthusiast;Agentic+AI+Enthusiast;Data+Science+Undergraduate" />
 </a>
 
-### 🎓 Data Science Undergraduate @ SLIIT
+### 🎓 BSc (Hons) IT — Data Science @ SLIIT
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="150">
+🤖 **AI / ML** &nbsp; • &nbsp;
+🧠 **Deep Learning** &nbsp; • &nbsp;
+🔗 **Agentic AI** &nbsp; • &nbsp;
+⚛️ **Quantum ML**
 
-### 🤖
-**AI / ML**
-
-</td>
-
-<td align="center" width="150">
-
-### 🧠
-**Deep Learning**
-
-</td>
-
-<td align="center" width="150">
-
-### 👁️
-**Computer Vision**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-
-### 🔗
-**Agentic AI**
-
-</td>
-
-<td align="center" width="150">
-
-### ⚛️
-**Quantum ML**
-
-</td>
-
-<td align="center" width="150">
-
-### 📊
-**Data Science**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://www.linkedin.com/in/surantha-madhuranga">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:suranthamadhurangauni@gmail.com">Email</a>
+👁️ **Computer Vision** &nbsp; • &nbsp;
+💬 **NLP** &nbsp; • &nbsp;
+📚 **RAG** &nbsp; • &nbsp;
+📊 **Data Science**
 
 <br><br>
 
-⭐ <b>Turning Data into Intelligent Solutions.</b>
+<a href="https://www.linkedin.com/in/surantha-madhuranga">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:suranthamadhurangauni@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SuranthaMadhuranga&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<br>
+
+⭐ **Turning Data into Intelligent Solutions**
 
 </div>
 <!--
