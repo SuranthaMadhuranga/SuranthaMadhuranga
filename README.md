@@ -12,6 +12,10 @@
 
 ### 🚀 Exploring & Building with AI
 
+<table align="center">
+<tr>
+<td align="left">
+
 🤖 **Artificial Intelligence & Machine Learning**  
 🧠 **Large Language Models (LLMs)**  
 🔗 **Agentic AI Systems**  
@@ -20,6 +24,10 @@
 👁️ **Computer Vision**  
 ⚛️ **Quantum Machine Learning**  
 📊 **Data Science & Analytics**
+
+</td>
+</tr>
+</table>
 
 <br>
 
